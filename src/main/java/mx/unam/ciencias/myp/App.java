@@ -74,7 +74,7 @@ public class App {
                     msj.limpiarConsola();
                     System.exit(0);
                 default:
-                    System.out.println("Opcion no valida.");
+                    System.out.println("Opcion no valida");
             }
         }  
     }
