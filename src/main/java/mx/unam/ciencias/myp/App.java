@@ -16,7 +16,7 @@ public class App {
     private static Operacion op;
 
     /**
-     * Método principal que inicia la aplicación de la calculadora.
+     * Método principal que isnicia la aplicación de la calculadora.
      * 
      * @param args los argumentos de la línea de comandos.
      */
