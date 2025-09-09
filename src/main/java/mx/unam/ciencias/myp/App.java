@@ -20,7 +20,7 @@ public class App {
      * 
      * @param args los argumentos de la línea de comandos.
      */
-    public static void main( String[] args ){
+    public static void main( String[]  ){
         try { Thread.sleep(2000); } catch (InterruptedException e) { }
         msj.limpiarConsola();
         System.out.println( msj.saludo());
